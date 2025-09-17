@@ -16,7 +16,7 @@ CSV_URL = ''
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 EMAIL_ADDRESS = 'ambitiontwenty25@gmail.com'
-EMAIL_PASSWORD = ''
+EMAIL_PASSWORD = 'iumd gwxp vpzz tcfp'
 
 # Email content
 EMAIL_SUBJECT = "Congratulations on Your Hackathon Registration!🎉"
