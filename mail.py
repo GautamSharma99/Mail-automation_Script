@@ -10,13 +10,13 @@ import requests
 # -------------------------
 
 # Google Sheet CSV link
-CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRSKtp9d8U5F-5V4VDi78oCrbiA8FoJSAEdDWXCHGN-2seP98RBSLORLMRDpL1X8KqsWtawMgnbwhBw/pub?gid=0&single=true&output=csv'
+CSV_URL = ''
 
 # Gmail setup
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 EMAIL_ADDRESS = 'gautamsharma99067@gmail.com'
-EMAIL_PASSWORD = 'pzqn ttku fdbl eyzn'
+EMAIL_PASSWORD = ''
 
 # Email content
 EMAIL_SUBJECT = "Hackathon Registration Confirmation"
